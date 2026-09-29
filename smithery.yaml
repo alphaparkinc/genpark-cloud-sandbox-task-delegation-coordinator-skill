@@ -1,0 +1,6 @@
+name: genpark-cloud-sandbox-task-delegation-coordinator-skill
+version: 1.0.0
+description: Cloud sandbox long-running task delegation coordinator with asynchronous state checkpointing and messaging heartbeats
+command: python
+args:
+  - mcp_server.py
